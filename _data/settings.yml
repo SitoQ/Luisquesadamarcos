@@ -7,7 +7,7 @@ disqus:
 google-ID: #(Estee es el que venia por defecto)'UA-112060364-2'
 
 menu:
-- {name: 'Works',  url: 'facts'}
+- {name: 'Projects',  url: 'projects'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
