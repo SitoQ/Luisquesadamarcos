@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
-backgroung: 
+background: gipsy1.jpg
 ---
 
 
