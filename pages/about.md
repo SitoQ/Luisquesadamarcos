@@ -4,6 +4,8 @@ title:
 permalink:
 ---
 
+
+
 Hello, my name is Luis Quesada Marcos and I am Rigger.
 
 I build rig systems for models of all kinds: creatures, bipeds, quadrupeds, weapon rigs, props, and vehicles.
