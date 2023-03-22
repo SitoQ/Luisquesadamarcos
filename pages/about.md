@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /about
+permalink:
 ---
 
 Hello, my name is Luis Quesada Marcos and I am Rigger.
