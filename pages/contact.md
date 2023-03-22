@@ -7,7 +7,7 @@ permalink: /contact
 
 **Phone:**    (+34) 665676571
 
-**Email: **     luisquesadamarcos@gmail.com
+**Email:**     luisquesadamarcos@gmail.com
 
 **Linkedin:**
 https://www.linkedin.com/in/luis-quesada-marcos-258770b7/
