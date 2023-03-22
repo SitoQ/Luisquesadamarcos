@@ -4,7 +4,7 @@ title: "Text Formatting"
 author: "Luis Quesada"
 categories: project
 tags: [project]
-image: arctic-1.jpg
+image: 
 ---
 
 
