@@ -5,25 +5,25 @@ permalink: /contact
 ---
 
 
-(+34) 665676571
+**Phone:**    (+34) 665676571
 
-luisquesadamarcos@gmail.com
+**Email:**      luisquesadamarcos@gmail.com
 
-Linkedin:
+**Linkedin:**
 https://www.linkedin.com/in/luis-quesada-marcos-258770b7/
 
 
 
 
-ArtStation:
+**ArtStation:**
 https://www.artstation.com/sitoq
 
 
-Instagram:
+**Instagram:**
 https://www.instagram.com/luis_quesada_3d_rigger/?hl=es
 
 
 
 
-YouTube:
+**YouTube:**
 https://www.youtube.com/channel/UCGDT7HbFNh-7n98lzrbMLBw
