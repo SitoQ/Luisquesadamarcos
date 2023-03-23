@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact
-background: gipsy1.jpg
+style="background-image: url('gipsy1.jpg');"
 ---
 
 
